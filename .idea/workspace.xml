@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="planetest2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d06b3092-7d81-429b-89df-b5b0bc81104c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/planetest2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/LWZ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/THIRDPARTYLICENSEREADME-JAVAFX.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/THIRDPARTYLICENSEREADME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/Welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/JAWTAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/JavaAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/WindowsAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/attach.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/awt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/bci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/dcpr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/decora_sse.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/deploy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/dt_shmem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/dt_socket.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/dtplugin/deployJava1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/dtplugin/npdeployJava1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/eula.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/fontmanager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/fxplugins.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/glass.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/glib-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/gstreamer-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/hprof.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/instrument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/j2pcsc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/j2pkcs11.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jaas_nt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jabswitch.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/java-rmi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/java.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/java.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/java_crw_demo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javacpl.cpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javacpl.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javafx_font.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javafx_font_t2k.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javafx_iio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javaw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/javaws.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jawt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jdwp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jfr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jfxmedia.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jfxwebkit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jp2iexp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jp2launcher.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jp2native.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jp2ssv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jsdt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jsound.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/jsoundds.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/kcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/keytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/kinit.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/klist.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/ktab.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/lcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/mlib_image.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/msvcp120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/msvcr120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/nio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/npt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/orbd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/pack200.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/plugin2/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/plugin2/npjp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/policytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/prism_common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/prism_d3d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/prism_sw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/resource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/rmid.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/rmiregistry.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/sawindbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/server/Xusage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/server/classes.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/server/jvm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/servertool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/splashscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/ssv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/ssvagent.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/sunec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/sunmscapi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/t2k.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/tnameserv.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/unpack.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/unpack200.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/verify.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/w2k_lsa_auth.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/wsdetect.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/bin/zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/accessibility.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/amd64/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/calendars.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/charsets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/cmm/CIEXYZ.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/cmm/GRAY.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/cmm/LINEAR_RGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/cmm/PYCC.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/cmm/sRGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/content-types.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/currency.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/ffjcext.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_ja.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_ko.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_pt_BR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_sv.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_zh_HK.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/messages_zh_TW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/splash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/splash@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/splash_11-lic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/deploy/splash_11@2x-lic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/access-bridge-64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/cldrdata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/dnsns.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/jaccess.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/jfxrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/localedata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/nashorn.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/sunec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/sunjce_provider.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/sunmscapi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/sunpkcs11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/ext/zipfs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/flavormap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaBrightDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaBrightDemiItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaBrightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaBrightRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaSansDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaTypewriterBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/fonts/LucidaTypewriterRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/hijrah-config-umalqura.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/cursors.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/invalid32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/win32_CopyDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/win32_CopyNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/win32_LinkDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/win32_LinkNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/win32_MoveDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/images/cursors/win32_MoveNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/javaws.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jce.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jfr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jfxswt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jsse.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/jvm.hprof.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/management-agent.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/management/snmp.acl.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/resources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/US_export_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/blacklist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/blacklisted.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/javaws.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/local_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/security/trusted.libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/jre/lib/tzmappings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/planetest2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/planetest2_jar/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/Explode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/GameObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/GameUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/MyGameFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/MyGameFrame$keyMoniter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/MyGameFrame$paintThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/MyGameFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/Plane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/Shell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/cn/zzditto/game/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/explodetest/e9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/planetest2/imagetest/飞机plane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planetest2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/Explode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/GameUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/MyGameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/Shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zzditto/game/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/explodetest/e9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagetest/飞机plane.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/MyGameFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="118" column="41" lean-forward="true" selection-start-line="118" selection-start-column="41" selection-end-line="118" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Shell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Explode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+              <folding>
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Plane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/imagetest/bg.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/imagetest/飞机plane.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/GameUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="小柚麯" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/GameUtil.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/plane.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/shell.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/Constant.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/Plane.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/Explode.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/test.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/Shell.java" />
+        <option value="$PROJECT_DIR$/src/cn/zzditto/game/MyGameFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/m2Repo-maven仓库/m2Repo" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="528" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="planetest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planetest2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planetest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planetest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planetest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planetest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="planetest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="planetest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="imagetest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ZTGX\IDEA\planetest2\src\imagetest" />
+      <recent name="D:\ZTGX\IDEA\planetest2\src" />
+      <recent name="D:\ZTGX\IDEA\planetest2\src\images" />
+      <recent name="D:\ZTGX\IDEA\planetest2\images" />
+      <recent name="D:\ZTGX\IDEA\planetest2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ZTGX\IDEA\planetest2\src\imagetest" />
+      <recent name="D:\ZTGX\IDEA\planetest2\src\images" />
+      <recent name="D:\ZTGX\IDEA\planetest2\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyGameFrame">
+    <configuration name="MyGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zzditto.game.MyGameFrame" />
+      <module name="planetest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zzditto.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zzditto.game.test" />
+      <module name="planetest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zzditto.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyGameFrame" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06b3092-7d81-429b-89df-b5b0bc81104c" name="Default Changelist" comment="" />
+      <created>1566104558500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566104558500</updated>
+      <workItem from="1566104561746" duration="17356000" />
+      <workItem from="1566206874210" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18056000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="飞机大战0.1版" />
+    <option name="LAST_COMMIT_MESSAGE" value="飞机大战0.1版" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/MyGameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="118" column="41" lean-forward="true" selection-start-line="118" selection-start-column="41" selection-end-line="118" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Explode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+          <folding>
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imagetest/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imagetest/飞机plane.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zzditto/game/GameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>planetest2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>planetest2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
