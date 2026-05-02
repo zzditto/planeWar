@@ -56,8 +56,7 @@ src/
 ## 运行游戏
 
 1. 确保已安装Java JDK 8+
-2. 编译项目：`javac src/cn/zzditto/game/*.java`
-3. 运行游戏：`java -cp src cn.zzditto.game.GameFrame`
+3. 运行游戏：`bash build.sh`
 
 ## 开发说明
 
