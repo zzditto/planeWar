@@ -8,17 +8,15 @@ public class test extends JFrame {
     public void paint(Graphics g) {
         super.paint(g);
         Image img = GameUtil.getImage("imagetest/explodetest/e3.gif");
-        g.drawImage(img,100,200,null);
+        g.drawImage(img, 100, 200, null);
     }
 
-    /*初始化窗口*/
-    public void testFrame(){
-        this.setTitle("kk");
+    public void testFrame() {
+        this.setTitle("测试窗口");
         this.setVisible(true);
-        this.setSize(300,300);
-        this.setLocation(300,300);
+        this.setSize(300, 300);
+        this.setLocation(300, 300);
     }
-
 
     public static void main(String[] args) {
         test t = new test();

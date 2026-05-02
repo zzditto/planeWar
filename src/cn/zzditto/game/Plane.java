@@ -4,9 +4,9 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 
 public class Plane extends GameObject {
+    boolean left, up, right, down;
+    boolean live = true;
 
-    boolean left,up,right,down;
-    boolean live=true;
     public void drawSelf(Graphics g) {
         if (live) {
             g.drawImage(img, (int) x, (int) y, null);
@@ -22,54 +22,54 @@ public class Plane extends GameObject {
             if (down) {
                 y += speed;
             }
-        }else{
-
+            // 边界检测
+            if (x < 0) x = 0;
+            if (y < 30) y = 30;
+            if (x > Constant.GAMEFRAME_WIDTH - width) x = Constant.GAMEFRAME_WIDTH - width;
+            if (y > Constant.GAMEFRAME_HEIGHT - height) y = Constant.GAMEFRAME_HEIGHT - height;
         }
     }
 
     public Plane(Image img, int x, int y) {
-        this.img=img;
-        this.x=x;
-        this.y=y;
-        this.speed=4;
-        this.width=img.getWidth(null);
-        this.hight=img.getHeight(null);
+        this.img = img;
+        this.x = x;
+        this.y = y;
+        this.speed = Constant.PLAYER_SPEED;
+        this.width = img.getWidth(null);
+        this.height = img.getHeight(null);
     }
 
-    /*按键  方法*/
-    public void addDeriction(KeyEvent e){
-        switch (e.getKeyCode()){
+    public void addDirection(KeyEvent e) {
+        switch (e.getKeyCode()) {
             case KeyEvent.VK_LEFT:
-            left=true;
-            break;
+                left = true;
+                break;
             case KeyEvent.VK_UP:
-                up=true;
+                up = true;
                 break;
             case KeyEvent.VK_RIGHT:
-                right=true;
+                right = true;
                 break;
             case KeyEvent.VK_DOWN:
-                down=true;
+                down = true;
                 break;
         }
     }
 
-    /*松开  方法*/
-    public void reduceDeriction(KeyEvent e){
-        switch (e.getKeyCode()){
+    public void reduceDirection(KeyEvent e) {
+        switch (e.getKeyCode()) {
             case KeyEvent.VK_LEFT:
-                left=false;
+                left = false;
                 break;
             case KeyEvent.VK_UP:
-                up=false;
+                up = false;
                 break;
             case KeyEvent.VK_RIGHT:
-                right=false;
+                right = false;
                 break;
             case KeyEvent.VK_DOWN:
-                down=false;
+                down = false;
                 break;
         }
     }
-
 }

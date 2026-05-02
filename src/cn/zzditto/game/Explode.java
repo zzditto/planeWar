@@ -2,13 +2,11 @@ package cn.zzditto.game;
 
 import java.awt.*;
 
-/*爆炸类*/
-public class Explode {
-    double x, y;
+public class Explode extends GameObject {
     static Image[] imgs = new Image[16];
     static {
         for (int i = 0; i < 16; i++) {
-            imgs[i] = GameUtil.getImage("imagetest/explodetest/e" + (i + 1) + ".gif");
+            imgs[i] = ResourceManager.getImage("imagetest/explodetest/e" + (i + 1) + ".gif");
             imgs[i].getWidth(null);
         }
     }
