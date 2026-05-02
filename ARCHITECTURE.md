@@ -89,3 +89,29 @@
 - **GameUtil**: 工具类，提供通用方法
 - **ResourceManager**: 资源管理器，缓存图片资源
 - **Constant**: 常量配置，定义游戏参数
+
+## 项目结构
+
+```
+src/
+├── cn/zzditto/game/
+│   ├── Constant.java          # 游戏常量配置
+│   ├── GameObject.java        # 游戏对象基类
+│   ├── Plane.java             # 玩家飞机类
+│   ├── Bullet.java            # 子弹类
+│   ├── Shell.java             # 炮弹类
+│   ├── Enemy.java             # 敌机类
+│   ├── Explode.java           # 爆炸效果类
+│   ├── GamePanel.java         # 游戏主面板
+│   ├── GameFrame.java         # 游戏窗口
+│   ├── GameLoop.java          # 游戏循环
+│   ├── GameUtil.java          # 工具类
+│   ├── ResourceManager.java   # 资源管理器
+│   ├── GameConfig.java        # 游戏配置管理
+│   └── TestWindow.java        # 测试窗口
+└── assets/
+    ├── bg.jpg                 # 背景图片
+    ├── plane.png              # 飞机图片
+    └── explode/               # 爆炸效果图片
+        ├── e1.gif ~ e16.gif
+```

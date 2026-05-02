@@ -10,6 +10,9 @@ target/
 build/
 *.class
 
+# 项目文件
+planetest2.iml
+
 # 系统文件
 .DS_Store
 Thumbs.db

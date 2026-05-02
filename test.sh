@@ -17,13 +17,13 @@ fi
 # 检查资源文件
 echo ""
 echo "2. 检查资源文件..."
-if [ -f "out/production/planeWar/imagetest/飞机plane.png" ]; then
+if [ -f "out/production/planeWar/assets/plane.png" ]; then
     echo "✓ 飞机图片存在"
 else
     echo "✗ 飞机图片不存在"
 fi
 
-if [ -f "out/production/planeWar/imagetest/bg.jpg" ]; then
+if [ -f "out/production/planeWar/assets/bg.jpg" ]; then
     echo "✓ 背景图片存在"
 else
     echo "✗ 背景图片不存在"

@@ -16,8 +16,8 @@ public class GamePanel extends JPanel {
     }
 
     private GameState gameState = GameState.START;
-    private Image planeImg = ResourceManager.getImage("imagetest/飞机plane.png");
-    private Image bg = ResourceManager.getImage("imagetest/bg.jpg");
+    private Image planeImg = ResourceManager.getImage("assets/plane.png");
+    private Image bg = ResourceManager.getImage("assets/bg.jpg");
 
     private Plane plane;
     private List<Shell> shells = new ArrayList<>();

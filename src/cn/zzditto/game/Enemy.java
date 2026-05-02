@@ -8,7 +8,7 @@ public class Enemy extends GameObject {
     
     static {
         // 尝试加载敌机图片
-        enemyImg = ResourceManager.getImage("imagetest/enemy.png");
+        enemyImg = ResourceManager.getImage("assets/enemy.png");
     }
     
     public Enemy(int x, int y) {

@@ -9,7 +9,7 @@ mkdir -p out/production/planeWar
 
 # 清理旧的编译文件
 rm -rf out/production/planeWar/cn
-rm -rf out/production/planeWar/imagetest
+rm -rf out/production/planeWar/assets
 
 # 编译所有Java文件
 javac -d out/production/planeWar src/cn/zzditto/game/*.java
@@ -19,10 +19,10 @@ if [ $? -eq 0 ]; then
     
     # 复制资源文件到输出目录
     echo "正在复制资源文件..."
-    cp -r src/imagetest out/production/planeWar/
+    cp -r src/assets out/production/planeWar/
     
     # 检查资源文件是否复制成功
-    if [ -d "out/production/planeWar/imagetest" ]; then
+    if [ -d "out/production/planeWar/assets" ]; then
         echo "资源文件复制成功！"
     else
         echo "警告：资源文件复制失败！"
